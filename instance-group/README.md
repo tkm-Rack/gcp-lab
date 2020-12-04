@@ -1,8 +1,6 @@
-# GCP Handson materials for GIG #1
+# MIG Handson
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/tkm-Rack/gcp-lab&cloudshell_working_dir=instance-group&cloudshell_tutorial=tutorial.md)
-
-**This is not an officially supported Google product**.
 
 See [tutorial.md](tutorial.md) for more details.
 
